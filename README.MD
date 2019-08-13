@@ -28,3 +28,4 @@ Golang常见操作例子
     - [3.2 解包(unzip) 文件](https://github.com/JiBadBoy/go-demo/blob/master/file/unzip.go)
     - [3.3 压缩文件](https://github.com/JiBadBoy/go-demo/blob/master/file/gzip.go)
     - [3.4 解压缩文件](https://github.com/JiBadBoy/go-demo/blob/master/file/ungzip.go)
+    - [3.5 遍历文件夹](https://github.com/JiBadBoy/go-demo/blob/master/file/each_file.go)
